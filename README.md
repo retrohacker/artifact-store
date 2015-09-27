@@ -1,6 +1,8 @@
 artifact-store
 ==============
 
+[![Build Status](https://travis-ci.org/wblankenship/artifact-store.svg?branch=master)](https://travis-ci.org/wblankenship/artifact-store)
+
 A generic artifact store. Allows you to store and fetch artifacts with pinned versions.
 
 # Usage
