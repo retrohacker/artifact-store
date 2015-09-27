@@ -1,0 +1,9 @@
+{
+  "registry" : {
+    "type" : "fs",
+    "path" : "/tmp/artifacts"
+  },
+  "server" : {
+    "port" : 8765
+  }
+}
