@@ -1,0 +1,38 @@
+{
+  "name": "artifact-store",
+  "version": "0.0.0",
+  "description": "A generic artifact store",
+  "main": "app.js",
+  "scripts": {
+    "test": "tape tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wblankenship/artifact-store.git"
+  },
+  "keywords": [
+    "artifact",
+    "storage",
+    "generic"
+  ],
+  "author": "William Blankenship <william.jblankenship@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wblankenship/artifact-store/issues"
+  },
+  "homepage": "https://github.com/wblankenship/artifact-store",
+  "dependencies": {
+    "bole": "^2.0.0",
+    "config": "^1.16.0",
+    "express": "^4.13.3",
+    "fs-blob-store": "^5.1.1",
+    "node-uuid": "^1.4.3",
+    "tmp": "0.0.27"
+  },
+  "devDependencies": {
+    "get-port": "^1.0.0",
+    "hash_file": "^0.1.1",
+    "request": "^2.64.0",
+    "tape": "^4.2.0"
+  }
+}
