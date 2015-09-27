@@ -13,7 +13,7 @@ To store something, simply:
 
 with the artifact as the request body (think tarballs). Where:
 
-* `user` is the user is the username for a scoped artifact. If absent, the package will be uploaded to the global namespace.
+* `user` is the username for a scoped artifact. If absent, the package will be uploaded to the global namespace.
 * `package` is the name of the artifact
 * `version` is the version of the artifact
 
