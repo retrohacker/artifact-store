@@ -1,6 +1,8 @@
 artifact-store
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/artifact-store.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/wblankenship/artifact-store.svg?branch=master)](https://travis-ci.org/wblankenship/artifact-store)
 
 A generic artifact store. Allows you to store and fetch artifacts with pinned versions.
